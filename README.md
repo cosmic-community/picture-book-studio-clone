@@ -18,7 +18,7 @@ A warm, whimsical Next.js website for a children's picture book author/publisher
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6ab946c0d6c934079b996b85&clone_repository=6ab9489ad6c934079b996c00)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6abe573259463ea225acc7f5&clone_repository=6ab9489ad6c934079b996c00)
 
 ## Prompts
 
